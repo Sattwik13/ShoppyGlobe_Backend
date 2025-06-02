@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-fidelity over-ear headphones with noise cancellation and 20 hours of battery life.",
+    "price": 129.99,
+    "stock": 50,
+    "image": "https://example.com/images/headphones.jpg"
+  },
+  {
+    "name": "Smart LED TV 50 inch",
+    "description": "Ultra HD 4K Smart TV with built-in streaming apps and voice control.",
+    "price": 599.99,
+    "stock": 20,
+    "image": "https://example.com/images/smart-tv.jpg"
+  },
+  {
+    "name": "Gaming Laptop",
+    "description": "Powerful gaming laptop with Intel i7, 16GB RAM, 1TB SSD, and RTX 3060.",
+    "price": 1499.99,
+    "stock": 10,
+    "image": "https://example.com/images/gaming-laptop.jpg"
+  },
+  {
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI and USB receiver.",
+    "price": 19.99,
+    "stock": 100,
+    "image": "https://example.com/images/mouse.jpg"
+  },
+  {
+    "name": "Smartphone Stand",
+    "description": "Aluminum adjustable stand compatible with all smartphones and tablets.",
+    "price": 9.99,
+    "stock": 200,
+    "image": "https://example.com/images/stand.jpg"
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard with blue switches and USB-C support.",
+    "price": 89.99,
+    "stock": 30,
+    "image": "https://example.com/images/keyboard.jpg"
+  }
+]

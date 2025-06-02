@@ -1,6 +1,3 @@
-// const express = require('express');
-// const { getAllProducts, getProductById } = require('../controllers/productController.js');
-
 import express from "express";
 import { getAllProducts, getProductById } from "../controllers/productController.js";
 

@@ -1,10 +1,3 @@
-// const express = require('express');
-// const {
-//   addToCart,
-//   updateCartItem,
-//   removeFromCart,
-// } = require('../controllers/cartController');
-// const authenticate = require('../middleware/authMiddleware.js');
 import express from "express";
 import { addToCart, updateCartItem, removeFromCart } from "../controllers/cartController.js";
 import  authenticate from "../middleware/authMiddleware.js";

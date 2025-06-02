@@ -1,9 +1,6 @@
 import products from "../models/Product.js";
 
 //File to add multiple data of products in products collection using insertmany() method. 
-//All data has to in array and we can insert that array using insertmany() method.
-
-
 
 const productsData = [
   {

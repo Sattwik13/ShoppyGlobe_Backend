@@ -1,4 +1,3 @@
-// const Product = require('../models/Product.js');
 import Product from "../models/Product.js";
 
 export const getAllProducts = async (req, res) => {

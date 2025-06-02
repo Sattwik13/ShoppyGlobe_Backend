@@ -1,12 +1,10 @@
-// const jwt = require('jsonwebtoken');
-// const User = require('../models/User.js');
-
 import jwt from "jsonwebtoken";
 import User from "../models/User.js";
 
 const authMiddleware = async (req, res, next) => {
   const authHeader = req.headers.authorization;
 
+  //token start should be Bearer
   if (!authHeader?.startsWith('Bearer ')) {
     return res.status(401).json({ message: 'Unauthorized: No token provided' });
   }
